@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 [![Newcow 个人主页](https://img.shields.io/badge/nowcoder-lzy-blue)](https://ac.nowcoder.com/acm/contest/profile/51334038)
 
 </div>
-
+!!!U CAN OBVIOUSLY SEE THE PRETTY ON THE LEFT IS MY BABE
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
