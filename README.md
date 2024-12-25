@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @2258009564
 
+![Visitor Count](https://profile-counter.glitch.me/{2258009564}/count.svg)
+
 <!---
 2258009564/2258009564 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -14,6 +16,9 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 !!!U CAN OBVIOUSLY SEE THE PRETTY ON THE LEFT IS MY BABE
+
+![B站统计](https://stats.justsong.cn/api/bilibili/?id=98732441&amp;theme=dark)
+![NOWCODER统计](https://stats.justsong.cn/api/nowcoder?id=51334038&amp;theme=dark)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2031%20mins-blue)
