@@ -1,6 +1,4 @@
-<div align="center">
  👋 Hi, I’m @2258009564
-</div>
 
 ![Visitor Count](https://profile-counter.glitch.me/{2258009564}/count.svg)
 
