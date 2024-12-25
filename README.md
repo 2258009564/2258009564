@@ -90,3 +90,6 @@ C++                      1 repo              ███████████�
 
  Last Updated on 25/12/2024 12:59:02 UTC
 <!--END_SECTION:waka-->
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/2258009564/2258009564.svg?variant=adaptive)](https://starchart.cc/2258009564/2258009564)
