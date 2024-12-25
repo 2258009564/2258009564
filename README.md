@@ -16,19 +16,19 @@ You can click the Preview link to take a look at your changes.
 !!!U CAN OBVIOUSLY SEE THE PRETTY ON THE LEFT IS MY BABE
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-43-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 200.1 kB Used in GitHub's Storage 
+> 📦 200.3 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2024
+> 🏆 64 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 3 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -36,19 +36,19 @@ You can click the Preview link to take a look at your changes.
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                17 commits          ███████████░░░░░░░░░░░░░░   44.74 % 
-🌃 Evening                21 commits          ██████████████░░░░░░░░░░░   55.26 % 
+🌆 Daytime                25 commits          ██████████░░░░░░░░░░░░░░░   40.32 % 
+🌃 Evening                37 commits          ███████████████░░░░░░░░░░   59.68 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   37 commits          ████████████████████████░   97.37 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   41 commits          █████████████████░░░░░░░░   66.13 % 
+Tuesday                  12 commits          █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Wednesday                8 commits           ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 1 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Saturday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -59,16 +59,20 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      4 hrs 20 mins       ████████████████████████░   95.83 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 32 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MYWORK                   4 hrs 32 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -84,5 +88,5 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 23/12/2024 14:03:13 UTC
+ Last Updated on 25/12/2024 12:53:12 UTC
 <!--END_SECTION:waka-->
