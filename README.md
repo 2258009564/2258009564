@@ -1,7 +1,9 @@
 <div align="center">
  👋 Hi, I’m @2258009564
-![Visitor Count](https://profile-counter.glitch.me/{2258009564}/count.svg)
 </div>
+
+![Visitor Count](https://profile-counter.glitch.me/{2258009564}/count.svg)
+
 <!---
 2258009564/2258009564 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
