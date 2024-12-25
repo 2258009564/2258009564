@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @2258009564
-
-
-
+<div align="center">
+ 👋 Hi, I’m @2258009564
+![Visitor Count](https://profile-counter.glitch.me/{2258009564}/count.svg)
+</div>
 <!---
 2258009564/2258009564 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-[![Visitor Count](https://profile-counter.glitch.me/{2258009564}/count.svg)]
+
 [![cf 个人主页](https://img.shields.io/badge/codeforces-alisa22580-yellow)](https://codeforces.com/profile/alisa22580)
 [![Luogu 个人主页](https://img.shields.io/badge/Luogu-alisa_kujou-blue)](https://www.luogu.com.cn/user/1440708)
 [![Newcow 个人主页](https://img.shields.io/badge/nowcoder-lzy-blue)](https://ac.nowcoder.com/acm/contest/profile/51334038)
