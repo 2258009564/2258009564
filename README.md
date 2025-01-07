@@ -22,11 +22,13 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2031%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-102-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 205.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 5 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -86,7 +88,7 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 06/01/2025 18:41:37 UTC
+ Last Updated on 07/01/2025 18:41:27 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
