@@ -20,11 +20,15 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2037%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 205.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,6 +36,46 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                39 commits          ██████████░░░░░░░░░░░░░░░   40.62 % 
+🌃 Evening                52 commits          ██████████████░░░░░░░░░░░   54.17 % 
+🌙 Night                  5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   47 commits          ████████████░░░░░░░░░░░░░   48.96 % 
+Tuesday                  13 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Wednesday                22 commits          ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Thursday                 1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+Friday                   6 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Saturday                 3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Sunday                   4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+C++                      1 hr 41 mins        ████████████████████████░   96.01 % 
+JSON                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+
+🔥 Editors: 
+VS Code                  1 hr 45 mins        █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+MYWORK                   1 hr 45 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C++** 
 
 ```text
@@ -45,7 +89,7 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2025 18:42:26 UTC
+ Last Updated on 10/01/2025 18:41:38 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
