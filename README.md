@@ -20,15 +20,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 205.6 kB Used in GitHub's Storage 
- > 
-> 🏆 20 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,18 +61,18 @@ Sunday                   8 commits           ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      7 hrs 31 mins       █████████████████████████   98.40 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+C++                      9 hrs 19 mins       █████████████████████████   98.57 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 28 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MYWORK                   7 hrs 39 mins       █████████████████████████   100.00 % 
+MYWORK                   9 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +88,7 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2025 18:42:50 UTC
+ Last Updated on 14/01/2025 18:40:04 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
