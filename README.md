@@ -20,13 +20,15 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-60%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2047%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-73-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-74-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 206.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 42 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -61,19 +63,18 @@ Sunday                   10 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      17 hrs 47 mins      █████████████████████████   99.53 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+C++                      14 hrs 10 mins      █████████████████████████   99.44 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 15 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MYWORK                   17 hrs 52 mins      █████████████████████████   100.00 % 
+MYWORK                   14 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  17 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -89,7 +90,7 @@ C++                      1 repo              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2025 18:39:34 UTC
+ Last Updated on 04/02/2025 18:40:44 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
