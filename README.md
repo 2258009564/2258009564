@@ -28,6 +28,8 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 211.1 kB Used in GitHub's Storage 
  > 
+> 🏆 111 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -61,16 +63,16 @@ Sunday                   29 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 1 min         █████████████████████████   100.00 % 
+C++                      1 hr 9 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
+VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MYWORK                   2 hrs 1 min         █████████████████████████   100.00 % 
+MYWORK                   1 hr 9 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  1 hr 9 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -87,7 +89,7 @@ CSS                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2025 18:44:22 UTC
+ Last Updated on 07/05/2025 18:45:12 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
