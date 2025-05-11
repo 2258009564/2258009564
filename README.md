@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-265%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-267%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 211.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 111 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -63,17 +63,21 @@ Sunday                   29 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 11 mins       █████████████████████████   100.00 % 
+C++                      4 hrs 28 mins       ████████████████████████░   95.89 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 40 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MYWORK                   1 hr 6 mins         █████████████░░░░░░░░░░░░   50.78 % 
-test                     1 hr 4 mins         ████████████░░░░░░░░░░░░░   49.22 % 
+test                     1 hr 53 mins        ██████████░░░░░░░░░░░░░░░   40.38 % 
+MYWORK                   1 hr 43 mins        █████████░░░░░░░░░░░░░░░░   36.81 % 
+01-命题公式真值表生成             49 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
+new                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 
 💻 Operating System: 
-Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -90,7 +94,7 @@ CSS                      1 repo              ████████░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 10/05/2025 18:41:23 UTC
+ Last Updated on 11/05/2025 18:41:48 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
