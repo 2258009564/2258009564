@@ -20,13 +20,11 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2034%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 339.3 kB Used in GitHub's Storage 
- > 
-> 🏆 126 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -61,17 +59,18 @@ Sunday                   34 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      10 hrs 8 mins       █████████████████████████   99.91 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+C++                      13 hrs 12 mins      █████████████████████████   99.08 % 
+Java                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  13 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-MYWORK                   10 hrs 9 mins       █████████████████████████   100.00 % 
+MYWORK                   13 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 9 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -89,7 +88,7 @@ CSS                      1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 04/09/2025 18:44:15 UTC
+ Last Updated on 05/09/2025 18:42:15 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
