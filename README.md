@@ -61,18 +61,16 @@ Sunday                   35 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      58 mins             ██████████████████████░░░   89.14 % 
-C#                       7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MYWORK                   58 mins             ██████████████████████░░░   89.14 % 
-Unknown Project          7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C++** 
@@ -91,7 +89,7 @@ CSS                      1 repo              █████░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 11/02/2026 19:31:33 UTC
+ Last Updated on 12/02/2026 19:31:53 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
