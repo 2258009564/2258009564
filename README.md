@@ -15,9 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-!!!U CAN OBVIOUSLY SEE THE PRETTY ON THE LEFT IS MY BABE
-
-
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-691%20hrs%2028%20mins-blue?style=flat)
