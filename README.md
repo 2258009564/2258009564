@@ -95,3 +95,5 @@ TypeScript               1 repo              ███░░░░░░░░�
 
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/2258009564/2258009564.svg?variant=adaptive)](https://starchart.cc/2258009564/2258009564)
+
+![Stone Badge](https://stone.professorlee.work/api/stone/2258009564/2258009564)
