@@ -13,13 +13,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%2036%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 345.0 kB Used in GitHub's Storage 
  > 
-> 🏆 38 Contributions in the Year 2026
+> 🏆 39 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -75,11 +75,11 @@ Windows                  8 hrs 9 mins        ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               3 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-C++                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+JavaScript               3 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+C++                      2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Vue                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Astro                    1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -89,7 +89,7 @@ TypeScript               1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 10/04/2026 19:24:58 UTC
+ Last Updated on 11/04/2026 19:09:00 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
