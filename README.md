@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-933%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-938%20hrs%205%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -54,26 +54,26 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      10 hrs 10 mins      ███████████████░░░░░░░░░░   61.01 % 
-Other                    4 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-Text                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Markdown                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+C++                      10 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.10 % 
+Other                    4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
+Typst                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Python                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 25 mins      █████████████████████████   98.57 % 
-Obsidian                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+VS Code                  19 hrs 19 mins      ████████████████████████░   94.35 % 
+Codex CLI                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Obsidian                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🐱‍💻 Projects: 
-MYWORK                   10 hrs 42 mins      ████████████████░░░░░░░░░   64.25 % 
-new-chat-3               2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-files-mentioned-by-the-us1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-new-chat-2               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-sean-is-given-a-directed-31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+MYWORK                   10 hrs 42 mins      █████████████░░░░░░░░░░░░   52.26 % 
+new-chat-3               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+c-users-lenovo-downloads-2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+files-mentioned-by-the-us1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+https-ac-nowcoder-com-acm1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 
 💻 Operating System: 
-Windows                  16 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +93,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:40:14 UTC
+ Last Updated on 26/07/2026 19:41:24 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
