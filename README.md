@@ -13,7 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-938%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-923%20hrs%2017%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2030%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -54,26 +56,48 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      10 hrs 3 mins       ████████████░░░░░░░░░░░░░   49.10 % 
-Other                    4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-Typst                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-Python                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+C++                      8 hrs 45 mins       ████████████░░░░░░░░░░░░░   49.35 % 
+Other                    3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+Typst                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+Python                   1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+JavaScript               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 19 mins      ████████████████████████░   94.35 % 
-Codex CLI                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Obsidian                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+VS Code                  16 hrs 48 mins      ████████████████████████░   94.72 % 
+Codex CLI                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-MYWORK                   10 hrs 42 mins      █████████████░░░░░░░░░░░░   52.26 % 
-new-chat-3               2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-c-users-lenovo-downloads-2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-files-mentioned-by-the-us1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-https-ac-nowcoder-com-acm1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+MYWORK                   9 hrs 12 mins       █████████████░░░░░░░░░░░░   51.86 % 
+c-users-lenovo-downloads-2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+new-chat-3               1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
+files-mentioned-by-the-us1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+https-ac-nowcoder-com-acm1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 💻 Operating System: 
-Windows                  20 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 44 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 12 hrs 23 mins (69.81%)
+
+✍️ 12,764 lines written by AI, 1,726 lines written by hand (88.09% AI-written)
+
+🔤 117,488,170 Input Tokens, 1,080,737 Output Tokens
+
+💵 $594.37 Estimated AI Cost This Week
+
+🧠 45 AI Sessions, 250 AI Prompts
+
+GPT                      12,836 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 88.09% of written lines came from AI
+📚 Verbose Prompter — average 4,315 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 17.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +117,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:41:24 UTC
+ Last Updated on 27/07/2026 20:01:33 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
