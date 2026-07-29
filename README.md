@@ -13,6 +13,10 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-923%20hrs%2035%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2048%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 409.8 kB Used in GitHub's Storage 
@@ -52,47 +56,47 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      8 hrs 14 mins       ████████████░░░░░░░░░░░░░   49.48 % 
-Other                    3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Typst                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-JavaScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+C++                      6 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.54 % 
+Typst                    1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Other                    1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+JavaScript               1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Python                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 45 mins      ████████████████████████░   94.57 % 
-Codex CLI                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+VS Code                  11 hrs 29 mins      ███████████████████████░░   92.76 % 
+Codex CLI                53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
 
 🐱‍💻 Projects: 
-MYWORK                   8 hrs 31 mins       █████████████░░░░░░░░░░░░   51.13 % 
-c-users-lenovo-downloads-2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-files-mentioned-by-the-us1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-new-chat-3               1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-https-ac-nowcoder-com-acm1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+MYWORK                   6 hrs 17 mins       █████████████░░░░░░░░░░░░   50.72 % 
+c-users-lenovo-downloads-2 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+https-ac-nowcoder-com-acm1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+new-chat-3               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+new-chat-2               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 
 💻 Operating System: 
-Windows                  16 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 36 mins (69.65%)
+⏱ AI Coding Time: 9 hrs (72.64%)
 
-✍️ 10,430 lines written by AI, 1,639 lines written by hand (86.42% AI-written)
+✍️ 10,430 lines written by AI, 1,244 lines written by hand (89.34% AI-written)
 
-🔤 105,434,431 Input Tokens, 952,568 Output Tokens
+🔤 95,276,327 Input Tokens, 761,013 Output Tokens
 
-💵 $536.35 Estimated AI Cost This Week
+💵 $479.81 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 208 AI Prompts
+🧠 35 AI Sessions, 145 AI Prompts
 
 GPT                      10,598 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.42% of written lines came from AI
-📚 Verbose Prompter — average 4,788 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 19.21% of changed lines were hand-edited
+🤖 AI-Driven — 89.34% of written lines came from AI
+📚 Verbose Prompter — average 6,268 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 15.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +116,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 19:58:04 UTC
+ Last Updated on 29/07/2026 19:50:30 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
