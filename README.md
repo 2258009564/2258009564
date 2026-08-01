@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-923%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-146%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2033%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,47 +56,47 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      2 hrs 21 mins       ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-Typst                    1 hr 26 mins        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Python                   1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-JavaScript               1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-PowerShell               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+C++                      2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.25 % 
+Other                    2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
+Typst                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+JavaScript               30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 57 mins       ██████████████████████░░░   87.28 % 
-Codex CLI                1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+VS Code                  7 hrs 39 mins       ███████████████████████░░   92.11 % 
+Codex CLI                39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 
 🐱‍💻 Projects: 
-MYWORK                   2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
-c-users-lenovo-downloads-2 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.71 % 
-new-chat-3               50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-https-ac-nowcoder-com-acm47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-d-tencent-document-xwecha28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+MYWORK                   2 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.69 % 
+c-users-lenovo-downloads-1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+new-chat                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+new-chat-3               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+https-ac-nowcoder-com-acm47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 
 💻 Operating System: 
-Windows                  7 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 41 mins (84.04%)
+⏱ AI Coding Time: 6 hrs 13 mins (74.89%)
 
-✍️ 9,779 lines written by AI, 414 lines written by hand (95.94% AI-written)
+✍️ 5,104 lines written by AI, 509 lines written by hand (90.93% AI-written)
 
-🔤 96,561,185 Input Tokens, 607,945 Output Tokens
+🔤 74,557,213 Input Tokens, 532,249 Output Tokens
 
-💵 $454.11 Estimated AI Cost This Week
+💵 $353.61 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 116 AI Prompts
+🧠 35 AI Sessions, 105 AI Prompts
 
-GPT                      9,823 lines         █████████████████████████   100.00 % 
+GPT                      5,425 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.94% of written lines came from AI
-📚 Verbose Prompter — average 7,246 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.32% of changed lines were hand-edited
+🤖 AI-Driven — 90.93% of written lines came from AI
+📚 Verbose Prompter — average 6,855 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 15.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +116,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 19:59:39 UTC
+ Last Updated on 01/08/2026 19:40:37 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
