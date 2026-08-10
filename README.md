@@ -56,47 +56,47 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      12 hrs 44 mins      █████████████░░░░░░░░░░░░   50.52 % 
-Other                    9 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   39.26 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-Typst                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-Text                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+C++                      14 hrs 2 mins       ██████████████░░░░░░░░░░░   57.53 % 
+Other                    8 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   36.64 % 
+Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Text                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 57 mins      ████████████████████████░   95.00 % 
-Codex CLI                1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+VS Code                  22 hrs 53 mins      ███████████████████████░░   93.76 % 
+Codex CLI                1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Codex Vscode             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🐱‍💻 Projects: 
-MYWORK                   12 hrs 18 mins      ████████████░░░░░░░░░░░░░   48.81 % 
-contest-zhuml-mn26s02b-fo2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-https-ac-nowcoder-com-acm1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-牛客多校6补题                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-https-qoj-ac-contest-39451 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+MYWORK                   14 hrs 2 mins       ██████████████░░░░░░░░░░░   57.51 % 
+contest-zhuml-mn26s02b-fo2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+https-ac-nowcoder-com-acm1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+牛客多校6补题                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+dp特训                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 💻 Operating System: 
-Windows                  25 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 14 mins (64.44%)
+⏱ AI Coding Time: 13 hrs 13 mins (54.13%)
 
-✍️ 4,254 lines written by AI, 4,631 lines written by hand (47.88% AI-written)
+✍️ 785 lines written by AI, 5,247 lines written by hand (13.01% AI-written)
 
-🔤 53,604,979 Input Tokens, 1,042,371 Output Tokens
+🔤 27,316,993 Input Tokens, 567,733 Output Tokens
 
-💵 $301.81 Estimated AI Cost This Week
+💵 $157.39 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 382 AI Prompts
+🧠 75 AI Sessions, 309 AI Prompts
 
-GPT                      4,255 lines         █████████████████████████   100.00 % 
+GPT                      785 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 47.88% of written lines came from AI
-📚 Verbose Prompter — average 5,601 characters per prompt
+🧑‍💻 Mostly Hands-On — 13.01% of written lines came from AI
+📚 Verbose Prompter — average 5,445 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 64.77% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 91.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +116,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:09:33 UTC
+ Last Updated on 10/08/2026 19:27:12 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
