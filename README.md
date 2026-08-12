@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-946%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-947%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2017%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2029%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,47 +56,48 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      14 hrs 2 mins       ██████████████░░░░░░░░░░░   57.53 % 
-Other                    8 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   36.64 % 
-Markdown                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-Text                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+C++                      12 hrs 36 mins      ████████████████░░░░░░░░░   62.40 % 
+Other                    6 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   34.24 % 
+Text                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 53 mins      ███████████████████████░░   93.76 % 
-Codex CLI                1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Codex Vscode             31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+VS Code                  18 hrs 12 mins      ███████████████████████░░   90.11 % 
+Codex Vscode             53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Codex CLI                52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Obsidian                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🐱‍💻 Projects: 
-MYWORK                   14 hrs 2 mins       ██████████████░░░░░░░░░░░   57.51 % 
-contest-zhuml-mn26s02b-fo2 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-https-ac-nowcoder-com-acm1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-牛客多校6补题                  1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-dp特训                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+MYWORK                   12 hrs 50 mins      ████████████████░░░░░░░░░   63.59 % 
+contest-zhuml-mn26s02b-fo2 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+牛客多校6补题                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+dp特训                     1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+https-ac-nowcoder-com-acm37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 💻 Operating System: 
-Windows                  24 hrs 25 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 13 mins (54.13%)
+⏱ AI Coding Time: 8 hrs 35 mins (42.52%)
 
-✍️ 785 lines written by AI, 5,247 lines written by hand (13.01% AI-written)
+✍️ 603 lines written by AI, 5,128 lines written by hand (10.52% AI-written)
 
-🔤 27,316,993 Input Tokens, 567,733 Output Tokens
+🔤 12,725,119 Input Tokens, 226,051 Output Tokens
 
-💵 $157.39 Estimated AI Cost This Week
+💵 $75.97 Estimated AI Cost This Week
 
-🧠 75 AI Sessions, 309 AI Prompts
+🧠 62 AI Sessions, 218 AI Prompts
 
-GPT                      785 lines           █████████████████████████   100.00 % 
+GPT                      603 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 13.01% of written lines came from AI
-📚 Verbose Prompter — average 5,445 characters per prompt
+🧑‍💻 Mostly Hands-On — 10.52% of written lines came from AI
+📚 Verbose Prompter — average 6,396 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 91.77% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -116,7 +117,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 11/08/2026 19:32:02 UTC
+ Last Updated on 12/08/2026 19:33:13 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
