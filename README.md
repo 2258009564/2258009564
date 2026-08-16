@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-953%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-955%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-171%20hrs%203%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -56,49 +56,49 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      9 hrs 58 mins       █████████████████░░░░░░░░   66.27 % 
-Other                    3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+C++                      10 hrs 52 mins      ██████████████████░░░░░░░   73.46 % 
+Other                    2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 13 mins      ████████████████████░░░░░   81.19 % 
-Codex Vscode             2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Codex CLI                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Obsidian                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+VS Code                  11 hrs 30 mins      ███████████████████░░░░░░   77.75 % 
+Codex Vscode             2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Codex CLI                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Obsidian                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🐱‍💻 Projects: 
-MYWORK                   9 hrs 54 mins       ████████████████░░░░░░░░░   65.80 % 
-mizuki                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-contest-zhuml-mn26s02b-fo48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-dp特训                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-https-ac-nowcoder-com-acm44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+MYWORK                   10 hrs 48 mins      ██████████████████░░░░░░░   72.98 % 
+mizuki                   55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+https-ac-nowcoder-com-acm44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+https-codeforces-com-prob30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+msoj-zhuml-d-1000ms-125mi26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 💻 Operating System: 
-Windows                  15 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  14 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 24 mins (35.99%)
+⏱ AI Coding Time: 4 hrs 18 mins (29.04%)
 
-✍️ 554 lines written by AI, 5,080 lines written by hand (9.83% AI-written)
+✍️ 554 lines written by AI, 5,392 lines written by hand (9.32% AI-written)
 
-🔤 2,455,720 Input Tokens, 303,876 Output Tokens
+🔤 2,267,772 Input Tokens, 304,022 Output Tokens
 
-💵 $31.62 Estimated AI Cost This Week
+💵 $30.70 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 101 AI Prompts
+🧠 33 AI Sessions, 90 AI Prompts
 
 GPT                      554 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 9.83% of written lines came from AI
-📚 Verbose Prompter — average 10,279 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 93.69% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 9.32% of written lines came from AI
+📚 Verbose Prompter — average 9,404 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 94.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +118,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 18:52:48 UTC
+ Last Updated on 16/08/2026 18:52:45 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
