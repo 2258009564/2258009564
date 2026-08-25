@@ -56,49 +56,48 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      9 hrs 59 mins       █████████████████░░░░░░░░   66.40 % 
-Other                    3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
-Markdown                 47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Python                   46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-TeX                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+C++                      6 hrs 42 mins       ████████████████░░░░░░░░░   64.06 % 
+Other                    2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
+Python                   46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+TeX                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 23 mins       ████████████████░░░░░░░░░   62.41 % 
-Codex Vscode             4 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.89 % 
-Codex CLI                1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Obsidian                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+VS Code                  6 hrs 12 mins       ███████████████░░░░░░░░░░   59.26 % 
+Codex Vscode             3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   30.15 % 
+Codex CLI                1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 
 🐱‍💻 Projects: 
-MYWORK                   9 hrs 26 mins       ████████████████░░░░░░░░░   62.78 % 
-new-chat-2               1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-files-mentioned-by-the-us1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-new-chat-3               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-msoj-zhuml-d-1000ms-125mi32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+MYWORK                   6 hrs 12 mins       ███████████████░░░░░░░░░░   59.26 % 
+new-chat-2               1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+files-mentioned-by-the-us1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+new-chat                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+t                        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 
 💻 Operating System: 
-Windows                  15 hrs 2 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 11 mins (47.82%)
+⏱ AI Coding Time: 5 hrs 22 mins (51.23%)
 
-✍️ 1,885 lines written by AI, 3,176 lines written by hand (37.25% AI-written)
+✍️ 1,865 lines written by AI, 1,365 lines written by hand (57.74% AI-written)
 
-🔤 8,952,666 Input Tokens, 821,854 Output Tokens
+🔤 8,190,619 Input Tokens, 724,820 Output Tokens
 
-💵 $65.63 Estimated AI Cost This Week
+💵 $55.87 Estimated AI Cost This Week
 
-🧠 64 AI Sessions, 175 AI Prompts
+🧠 58 AI Sessions, 135 AI Prompts
 
-GPT                      1,885 lines         █████████████████████████   100.00 % 
+GPT                      1,865 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.25% of written lines came from AI
-📚 Verbose Prompter — average 11,245 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 75.77% of changed lines were hand-edited
+⚖️ Balanced with AI — 57.74% of written lines came from AI
+📚 Verbose Prompter — average 13,333 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 57.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +117,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:08:13 UTC
+ Last Updated on 25/08/2026 19:06:38 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
