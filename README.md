@@ -56,48 +56,48 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      3 hrs 32 mins       ███████████████░░░░░░░░░░   59.10 % 
-Other                    1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-Python                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-TeX                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+C++                      3 hrs 32 mins       ███████████████░░░░░░░░░░   61.61 % 
+Other                    1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
+Python                   46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+TeX                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 33 mins       ███████████████░░░░░░░░░░   59.12 % 
-Codex Vscode             1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   26.76 % 
-Codex CLI                50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+VS Code                  3 hrs 33 mins       ███████████████░░░░░░░░░░   61.63 % 
+Codex Vscode             1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+Codex CLI                39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 
 🐱‍💻 Projects: 
-MYWORK                   3 hrs 33 mins       ███████████████░░░░░░░░░░   59.12 % 
-new-chat-2               1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-new-chat                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-new-chat-3               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-t                        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+MYWORK                   3 hrs 33 mins       ███████████████░░░░░░░░░░   61.63 % 
+new-chat-2               1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
+new-chat                 20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+new-chat-3               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+t                        11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 💻 Operating System: 
-Windows                  6 hrs               █████████████████████████   100.00 % 
+Windows                  5 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 58 mins (49.61%)
+⏱ AI Coding Time: 2 hrs 44 mins (47.48%)
 
-✍️ 579 lines written by AI, 960 lines written by hand (37.62% AI-written)
+✍️ 224 lines written by AI, 960 lines written by hand (18.92% AI-written)
 
-🔤 4,984,602 Input Tokens, 374,333 Output Tokens
+🔤 4,197,466 Input Tokens, 323,627 Output Tokens
 
-💵 $23.72 Estimated AI Cost This Week
+💵 $19.78 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 66 AI Prompts
+🧠 29 AI Sessions, 56 AI Prompts
 
-GPT                      579 lines           █████████████████████████   100.00 % 
+GPT                      224 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 37.62% of written lines came from AI
-📚 Verbose Prompter — average 17,437 characters per prompt
+🧑‍💻 Mostly Hands-On — 18.92% of written lines came from AI
+📚 Verbose Prompter — average 14,533 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 75.45% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 88.82% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +117,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:14:30 UTC
+ Last Updated on 29/08/2026 01:49:23 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
