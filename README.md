@@ -56,44 +56,46 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      1 hr 29 mins        ███████████████████░░░░░░   76.75 % 
-Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+C++                      4 hrs 19 mins       ██████████████████████░░░   88.97 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+PowerShell               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  1 hr 29 mins        ███████████████████░░░░░░   76.80 % 
-Codex Vscode             14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-Codex CLI                12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+VS Code                  4 hrs 19 mins       ██████████████████████░░░   89.00 % 
+Codex Vscode             31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🐱‍💻 Projects: 
-MYWORK                   1 hr 29 mins        ███████████████████░░░░░░   76.80 % 
-new-chat-3               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-t                        11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+MYWORK                   4 hrs 19 mins       ██████████████████████░░░   89.00 % 
+new-chat-3               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+pragma-gcc-optimize-2-inc6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+pragma-gcc-optimize-2-inc0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (23.2%)
+⏱ AI Coding Time: 32 mins (11.0%)
 
-✍️ 0 lines written by AI, 446 lines written by hand (0.0% AI-written)
+✍️ 890 lines written by AI, 1,107 lines written by hand (44.57% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 76,525 Input Tokens, 20,989 Output Tokens
 
-💵 $4.74 Estimated AI Cost This Week
+💵 $1.65 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 11 AI Prompts
+🧠 12 AI Sessions, 18 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      890 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 19,677 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+⚖️ Balanced with AI — 44.57% of written lines came from AI
+📚 Verbose Prompter — average 14,922 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 67.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +115,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:02:10 UTC
+ Last Updated on 30/08/2026 21:17:06 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
