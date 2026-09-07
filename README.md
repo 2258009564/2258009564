@@ -56,50 +56,50 @@ Sunday                   50 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      9 hrs 3 mins        ███████████████░░░░░░░░░░   58.41 % 
-Other                    1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Typst                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Markdown                 57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+C++                      5 hrs 27 mins       █████████████░░░░░░░░░░░░   50.27 % 
+Other                    1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+Typst                    58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+JavaScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 58 mins       ██████████████░░░░░░░░░░░   57.90 % 
-Codex Vscode             5 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.65 % 
-Codex CLI                54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Obsidian                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+VS Code                  5 hrs 47 mins       █████████████░░░░░░░░░░░░   53.32 % 
+Codex Vscode             4 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   40.13 % 
+Codex CLI                27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+Obsidian                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
 
 🐱‍💻 Projects: 
-MYWORK                   9 hrs 12 mins       ███████████████░░░░░░░░░░   59.44 % 
-d-desktop                1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
-d-desktop-statement-154391 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-new-chat-2               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-d-downloads-0-vmware-pptx1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+MYWORK                   6 hrs 1 min         ██████████████░░░░░░░░░░░   55.42 % 
+d-desktop-statement-154391 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+new-chat-2               1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+d-desktop                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+d-downloads-0-vmware-pptx1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
 
 💻 Operating System: 
-Windows                  15 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 18 mins (47.13%)
+⏱ AI Coding Time: 5 hrs 28 mins (50.28%)
 
-✍️ 6,602 lines written by AI, 2,097 lines written by hand (75.89% AI-written)
+✍️ 2,596 lines written by AI, 1,581 lines written by hand (62.15% AI-written)
 
-🔤 6,258,558 Input Tokens, 643,832 Output Tokens
+🔤 2,589,764 Input Tokens, 264,440 Output Tokens
 
-💵 $78.51 Estimated AI Cost This Week
+💵 $44.06 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 157 AI Prompts
+🧠 27 AI Sessions, 100 AI Prompts
 
-GPT                      6,622 lines         █████████████████████████   99.85 % 
-Codex-Vscode             10 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+GPT                      2,733 lines         █████████████████████████   99.82 % 
+Codex-Vscode             5 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.89% of written lines came from AI
-📚 Verbose Prompter — average 11,724 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 30.99% of changed lines were hand-edited
+⚖️ Balanced with AI — 62.15% of written lines came from AI
+📚 Verbose Prompter — average 7,231 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 42.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +119,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:34:05 UTC
+ Last Updated on 07/09/2026 21:38:18 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
