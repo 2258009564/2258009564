@@ -56,51 +56,51 @@ Sunday                   50 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      6 hrs 57 mins       █████████████░░░░░░░░░░░░   50.47 % 
-Python                   2 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Other                    1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Batchfile                47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+C++                      7 hrs 25 mins       ██████████████░░░░░░░░░░░   57.44 % 
+Python                   1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
+TypeScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Batchfile                47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 51 mins      ████████████████████░░░░░   78.76 % 
-Codex Vscode             2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Obsidian                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+VS Code                  10 hrs 33 mins      ████████████████████░░░░░   81.76 % 
+Codex Vscode             1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Obsidian                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🐱‍💻 Projects: 
-test                     4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   31.77 % 
-MYWORK                   3 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
-系分课设                     1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-hello agents             1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Lenovo                   1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+test                     4 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   33.91 % 
+MYWORK                   3 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+hello agents             1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+系分课设                     59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+System32                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 💻 Operating System: 
-Windows                  13 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 19 mins (45.84%)
+⏱ AI Coding Time: 4 hrs 38 mins (35.99%)
 
-✍️ 8,256 lines written by AI, 5,403 lines written by hand (60.44% AI-written)
+✍️ 6,390 lines written by AI, 3,899 lines written by hand (62.11% AI-written)
 
-🔤 5,349,497 Input Tokens, 674,922 Output Tokens
+🔤 4,241,330 Input Tokens, 502,083 Output Tokens
 
-💵 $588.27 Estimated AI Cost This Week
+💵 $547.91 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 68 AI Prompts
+🧠 27 AI Sessions, 52 AI Prompts
 
-Opencode-Cli             3,953 lines         ████████████░░░░░░░░░░░░░   47.55 % 
-GPT                      2,074 lines         ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
-Glm                      1,862 lines         ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Codex-Vscode             424 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Opencode-Cli             3,953 lines         ███████████████░░░░░░░░░░   61.32 % 
+GPT                      2,027 lines         ████████░░░░░░░░░░░░░░░░░   31.44 % 
+Codex-Vscode             424 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Glm                      43 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 60.44% of written lines came from AI
-📚 Verbose Prompter — average 6,785 characters per prompt
+⚖️ Balanced with AI — 62.11% of written lines came from AI
+📚 Verbose Prompter — average 6,969 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 47.08% of changed lines were hand-edited
+🚀 High AI Trust — 48.79% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -120,7 +120,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 21:31:53 UTC
+ Last Updated on 23/09/2026 21:37:37 UTC
 <!--END_SECTION:waka-->
 
 ## Stargazers over time
