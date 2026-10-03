@@ -1,16 +1,72 @@
- 👋 Hi, I’m @2258009564
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="alisa22580 — Algorithms to Infrastructure · 从算法出发，向系统深处。" />
+</p>
 
-<!---
-2258009564/2258009564 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <a href="https://alisa22580.com/">数字花园</a> &nbsp; / &nbsp;
+  <a href="https://github.com/2258009564?tab=repositories">项目仓库</a> &nbsp; / &nbsp;
+  <a href="https://codeforces.com/profile/alisa22580">Codeforces</a>
+</p>
 
-<div align="center">
- 
-[![cf 个人主页](https://img.shields.io/badge/codeforces-alisa22580-yellow)](https://codeforces.com/profile/alisa22580)
+# 你好，我是 alisa22580。
 
-</div>
+软件工程学生，从 C++ 与算法竞赛出发，持续探索存储系统与分布式基础设施。喜欢拆解问题、推导边界，也希望把解题时的严谨带进真实系统：理解它为什么工作，以及它什么时候会失效。
 
+这里记录我的算法练习、系统学习和日常工具实验。代码、笔记与验证，是我理解一个问题的三种方式。
+
+## 01 / 关注的方向
+
+**算法与问题求解** &nbsp; 用 C++ 练习建模、推导与实现，把思路留在代码和笔记里。
+
+**存储与分布式系统** &nbsp; 围绕 Raft、日志与故障恢复学习系统的状态、边界和取舍。
+
+**开发工具与知识记录** &nbsp; 从实际使用中的小问题出发，做浏览器扩展、编辑器工具和数字花园。
+
+## 02 / 项目与实践
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/2258009564/raft-study">Raft Study ↗</a></h3>
+<p>基于 MIT 6.5840 的 Raft 学习记录，以中文架构说明、阶段里程碑和测试记录串联共识协议的理解过程。</p>
+<p><code>Distributed Systems</code> <code>Raft</code></p>
+<sub>公开仓库展示笔记与验证记录。</sub>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/2258009564/MYWORK">Algorithm Workspace ↗</a></h3>
+<p>C++ 算法竞赛与日常编程练习。持续积累题目实现，在建模、复杂度与边界之间打磨解题能力。</p>
+<p><code>C++</code> <code>Algorithms</code></p>
+<sub>从一道题，走向一类问题。</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/2258009564/SelectEcho">SelectEcho ↗</a></h3>
+<p>左键划词即译的浏览器工具，关注稳定的翻译引擎策略与结构保真的结果展示。</p>
+<p><code>JavaScript</code> <code>Browser Extension</code></p>
+<sub>让日常阅读少一点打断。</sub>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/2258009564/cph_for_nvim">CPH for Neovim ↗</a></h3>
+<p>面向 Neovim 的竞赛编程辅助插件，把算法练习与自己的编辑器工作流连接起来。</p>
+<p><code>Lua</code> <code>Neovim</code></p>
+<sub>为自己的工作流写工具。</sub>
+</td>
+</tr>
+</table>
+
+## 03 / 技术与记录
+
+**编程** &nbsp; C++ · Go · Python · JavaScript · Lua  
+**工具** &nbsp; Git · Neovim · VS Code · Windows / WSL  
+**记录** &nbsp; [数字花园](https://alisa22580.com/) · [算法仓库](https://github.com/2258009564/MYWORK) · [Raft 笔记](https://github.com/2258009564/raft-study)
+
+## 04 / 开发足迹
+
+持续动手，也持续记录。最近的编码统计与语言分布收在下面。
+
+<details>
+<summary><b>展开编码统计 / WakaTime</b></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%2016%20mins-blue?style=flat)
@@ -122,7 +178,16 @@ CSS                      1 repo              ██░░░░░░░░░�
  Last Updated on 02/10/2026 22:24:30 UTC
 <!--END_SECTION:waka-->
 
-## Stargazers over time
-[![Stargazers over time](https://starchart.cc/2258009564/2258009564.svg?variant=adaptive)](https://starchart.cc/2258009564/2258009564)
+</details>
 
-![Stone Badge](https://stone.professorlee.work/api/stone/2258009564/2258009564)
+---
+
+<p align="center">
+  <b>把问题想清楚，把系统做扎实。</b><br />
+  <sub>Think precisely. Build deliberately.</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/2258009564">@2258009564</a> &nbsp; · &nbsp;
+  <a href="https://alisa22580.com/">alisa22580.com</a>
+</p>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">alisa22580 — Algorithms to Infrastructure</title><desc id="desc">深蓝与暖金色的个人主页横幅，右侧为抽象的分布式节点图。</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#111c30"/><stop offset="1" stop-color="#070c16"/></linearGradient><linearGradient id="gold"><stop stop-color="#dfc18a"/><stop offset="1" stop-color="#a88851"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#9fb2d3" stroke-opacity=".045"/></pattern></defs>
+<rect width="1200" height="420" rx="22" fill="url(#bg)"/><rect width="1200" height="420" rx="22" fill="url(#grid)"/>
+<path d="M60 62H115" stroke="#dfc18a" stroke-width="3"/><text x="133" y="68" fill="#b1bdce" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">ENGINEERING JOURNAL</text>
+<text x="60" y="167" fill="#f4f2eb" font-family="Arial,sans-serif" font-weight="700" font-size="66" letter-spacing="-2">alisa22580<tspan fill="#dfc18a">.</tspan></text>
+<text x="63" y="219" fill="#dfc18a" font-family="Arial,sans-serif" font-size="23" letter-spacing="1">Algorithms to Infrastructure</text>
+<text x="63" y="263" fill="#a7b4c8" font-family="Microsoft YaHei,Arial,sans-serif" font-size="18">从算法出发，向系统深处。</text>
+<path d="M63 309H635" stroke="#2a3548"/><text x="63" y="352" fill="#95a5bd" font-family="monospace" font-size="13" letter-spacing="2">C++ / GO / DISTRIBUTED SYSTEMS</text>
+<g fill="none" stroke="#c5a66f"><circle cx="945" cy="210" r="144" opacity=".12"/><circle cx="945" cy="210" r="111" opacity=".22"/><path d="M945 121L1023 255H867Z" opacity=".45"/><path d="M945 121V210M1023 255L945 210L867 255" opacity=".5"/></g>
+<g fill="#101c2e" stroke="#c5a66f" stroke-width="1.5"><rect x="918" y="94" width="54" height="54" rx="12"/><rect x="996" y="228" width="54" height="54" rx="12"/><rect x="840" y="228" width="54" height="54" rx="12"/></g>
+<g fill="#dfc18a"><circle cx="945" cy="121" r="5"/><circle cx="1023" cy="255" r="5"/><circle cx="867" cy="255" r="5"/><circle cx="945" cy="210" r="7"/></g>
+<text x="945" y="355" text-anchor="middle" fill="#7f8ea6" font-family="monospace" font-size="11" letter-spacing="3">BUILD · UNDERSTAND · ITERATE</text></svg>
