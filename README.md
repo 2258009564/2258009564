@@ -1,60 +1,53 @@
-<picture>
-  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/hero-mobile-dark.svg" />
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-  <source media="(max-width: 600px)" srcset="./assets/hero-mobile-light.svg" />
-  <img src="./assets/hero-light.svg" width="100%" alt="alisa22580 · Engineering Field Notes · 从算法推导，走向工程验证。" />
-</picture>
-
-<p align="right">
-  <a href="https://alisa22580.com/">数字花园</a> &nbsp; / &nbsp;
-  <a href="https://codeforces.com/profile/alisa22580">Codeforces</a> &nbsp; / &nbsp;
-  <a href="https://github.com/2258009564?tab=repositories">GitHub 仓库</a>
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="alisa22580 · Think in algorithms. Build in systems. 从算法的严谨，走向系统的深度。" />
 </p>
 
-# 从算法，走向系统。
+<p align="center">
+  <a href="https://alisa22580.com/"><b>数字花园 ↗</b></a> &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/alisa22580"><b>Codeforces ↗</b></a> &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://github.com/2258009564?tab=repositories"><b>全部仓库 ↗</b></a>
+</p>
 
-我是 **alisa22580**，一名软件工程学生，关注存储与分布式基础设施。从 C++ 竞赛练习出发，逐步学习 Go 与 Raft，也为自己的阅读、编码和知识记录做工具。
+### 我是 alisa22580，一名软件工程学生。
 
-比起只让代码运行，我更想弄清它依赖什么假设、在哪些边界失效，以及怎样验证。这份主页收录学习记录和公开项目，具体实现与阶段成果都能从下面的链接继续查看。
+从 C++ 与算法竞赛出发，向存储系统与分布式基础设施深入。喜欢把问题抽象清楚，再用代码和验证把它落到实处；这里既有长期积累的算法练习，也有系统学习的记录和为自己写的小工具。
 
-## 项目与实践
+<br />
 
-### [Raft Study ↗](https://github.com/2258009564/raft-study)
+<img src="./assets/work.svg" width="100%" alt="Selected work · 项目、学习与工具" />
 
-`系统学习` · `Go / MIT 6.5840` · `源码私有`
+<p>
+  <a href="https://github.com/2258009564/raft-study"><img src="./assets/raft.svg" width="49%" alt="Raft Study：基于 MIT 6.5840 的架构笔记、阶段里程碑与测试记录。公开仓库为学习文档。" /></a>
+  <a href="https://github.com/2258009564/MYWORK"><img src="./assets/algorithms.svg" width="49%" alt="Algorithm Workspace：C++ 算法竞赛与编程练习，关注建模、复杂度与边界。" /></a>
+  <a href="https://github.com/2258009564/SelectEcho"><img src="./assets/selectecho.svg" width="49%" alt="SelectEcho：划词即译，稳定引擎策略与结构保真展示。" /></a>
+  <a href="https://github.com/2258009564/cph_for_nvim"><img src="./assets/neovim.svg" width="49%" alt="CPH for Neovim：面向 Neovim 的竞赛编程辅助插件。" /></a>
+</p>
 
-围绕 Raft 的任期、投票、选举与心跳，整理中文架构说明、消息时间线和测试记录。目前完成 **Lab 3A 选举阶段**；日志复制、持久化与快照仍是后续阶段，公开仓库保留学习文档与验收说明。
+<sub>项目入口：[Raft 学习文档](https://github.com/2258009564/raft-study) · [算法练习](https://github.com/2258009564/MYWORK) · [SelectEcho](https://github.com/2258009564/SelectEcho) · [Neovim 插件](https://github.com/2258009564/cph_for_nvim)</sub>
 
-[架构与阶段说明](https://github.com/2258009564/raft-study/blob/main/README.md) &nbsp; · &nbsp; [测试记录](https://github.com/2258009564/raft-study/blob/main/docs/verification.md) &nbsp; · &nbsp; [来源与贡献说明](https://github.com/2258009564/raft-study/blob/main/docs/sources.md)
+<br />
+<br />
 
-### [SelectEcho ↗](https://github.com/2258009564/SelectEcho)
+<img src="./assets/focus.svg" width="100%" alt="Engineering mindset · 持续投入的方向" />
 
-`浏览器扩展` · `JavaScript / Manifest V3`
+**算法是起点。** 在建模、证明和复杂度之间训练精确思考，把解题中的严谨带到工程里。
 
-为 Chrome / Edge 做的划词翻译工具。关注翻译引擎的选择、段落与列表等结构的保留，以及复杂内容的降级展示，让日常阅读少一点打断。
+**系统是方向。** 关注数据如何保存、状态如何复制，以及系统在故障发生后如何恢复。围绕 Raft、日志与存储机制持续学习。
 
-[安装与使用](https://github.com/2258009564/SelectEcho/blob/main/README.md) &nbsp; · &nbsp; [内容处理实现](https://github.com/2258009564/SelectEcho/blob/main/content.js)
+**工具是实践。** 从阅读和编码中的真实需求出发，让浏览器扩展、编辑器插件与数字花园成为日常工作的一部分。
 
-### [cph.nvim ↗](https://github.com/2258009564/cph_for_nvim)
+<p>
+  <code>C++</code> &nbsp; <code>Go</code> &nbsp; <code>Python</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Lua</code>
+  <br />
+  <sub>Git · Neovim · VS Code · Windows / WSL</sub>
+</p>
 
-`编辑器工具` · `Lua / Neovim`
+<br />
 
-把竞赛练习接入自己的编辑器：接收 Competitive Companion 题目，保存和管理测试用例，在 Neovim 内编译运行并比较输出。将题目接收、执行与结果展示拆成清晰的模块。
-
-[中文使用说明](https://github.com/2258009564/cph_for_nvim/blob/master/README.zh.md) &nbsp; · &nbsp; [插件模块](https://github.com/2258009564/cph_for_nvim/tree/master/lua/cph)
-
-## 练习与记录
-
-**算法起点** &nbsp; [MYWORK](https://github.com/2258009564/MYWORK) 保存 C++ 练习、竞赛模板和编辑器配置，是一路积累的代码归档。
-
-**知识记录** &nbsp; 在 [数字花园](https://alisa22580.com/) 留下教程、算法思路与个人笔记；在 [Codeforces](https://codeforces.com/profile/alisa22580) 保留解题足迹。
-
-**编程与工具** &nbsp; C++ · Go · Python · JavaScript · Lua &nbsp; / &nbsp; Git · Neovim · VS Code · Windows / WSL
-
-## 开发足迹
+<img src="./assets/footprints.svg" width="100%" alt="Behind the commits · 日常开发记录" />
 
 <details>
-<summary><b>展开 WakaTime 编码统计</b></summary>
+<summary><b>编码时间、语言分布与开发足迹 ↗</b></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%2016%20mins-blue?style=flat)
@@ -168,9 +161,10 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 </details>
 
----
+<br />
+
+<img src="./assets/signature.svg" width="100%" alt="Stay curious. Go deeper. 保持好奇，向深处走。" />
 
 <p align="center">
-  <b>保持好奇，也保持严谨。</b><br />
-  <sub>Think clearly. Build carefully.</sub>
+  <sub><a href="https://github.com/2258009564">@2258009564</a> &nbsp; / &nbsp; <a href="https://alisa22580.com/">alisa22580.com</a></sub>
 </p>
