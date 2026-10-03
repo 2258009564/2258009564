@@ -57,8 +57,8 @@
 
 ## 03 / 技术与记录
 
-**编程** &nbsp; C++ · Go · Python · JavaScript · Lua  
-**工具** &nbsp; Git · Neovim · VS Code · Windows / WSL  
+**编程** &nbsp; C++ · Go · Python · JavaScript · Lua<br />
+**工具** &nbsp; Git · Neovim · VS Code · Windows / WSL<br />
 **记录** &nbsp; [数字花园](https://alisa22580.com/) · [算法仓库](https://github.com/2258009564/MYWORK) · [Raft 笔记](https://github.com/2258009564/raft-study)
 
 ## 04 / 开发足迹
