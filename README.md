@@ -1,72 +1,53 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="alisa22580 — Algorithms to Infrastructure · 从算法出发，向系统深处。" />
+  <img src="./assets/header.svg" width="100%" alt="alisa22580 · Think in algorithms. Build in systems. 从算法的严谨，走向系统的深度。" />
 </p>
 
 <p align="center">
-  <a href="https://alisa22580.com/">数字花园</a> &nbsp; / &nbsp;
-  <a href="https://github.com/2258009564?tab=repositories">项目仓库</a> &nbsp; / &nbsp;
-  <a href="https://codeforces.com/profile/alisa22580">Codeforces</a>
+  <a href="https://alisa22580.com/"><b>数字花园 ↗</b></a> &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/alisa22580"><b>Codeforces ↗</b></a> &nbsp;&nbsp; · &nbsp;&nbsp;
+  <a href="https://github.com/2258009564?tab=repositories"><b>全部仓库 ↗</b></a>
 </p>
 
-# 你好，我是 alisa22580。
+### 我是 alisa22580，一名软件工程学生。
 
-软件工程学生，从 C++ 与算法竞赛出发，持续探索存储系统与分布式基础设施。喜欢拆解问题、推导边界，也希望把解题时的严谨带进真实系统：理解它为什么工作，以及它什么时候会失效。
+从 C++ 与算法竞赛出发，向存储系统与分布式基础设施深入。喜欢把问题抽象清楚，再用代码和验证把它落到实处；这里既有长期积累的算法练习，也有系统学习的记录和为自己写的小工具。
 
-这里记录我的算法练习、系统学习和日常工具实验。代码、笔记与验证，是我理解一个问题的三种方式。
+<br />
 
-## 01 / 关注的方向
+<img src="./assets/work.svg" width="100%" alt="Selected work · 项目、学习与工具" />
 
-**算法与问题求解** &nbsp; 用 C++ 练习建模、推导与实现，把思路留在代码和笔记里。
+<p>
+  <a href="https://github.com/2258009564/raft-study"><img src="./assets/raft.svg" width="49%" alt="Raft Study：基于 MIT 6.5840 的架构笔记、阶段里程碑与测试记录。公开仓库为学习文档。" /></a>
+  <a href="https://github.com/2258009564/MYWORK"><img src="./assets/algorithms.svg" width="49%" alt="Algorithm Workspace：C++ 算法竞赛与编程练习，关注建模、复杂度与边界。" /></a>
+  <a href="https://github.com/2258009564/SelectEcho"><img src="./assets/selectecho.svg" width="49%" alt="SelectEcho：划词即译，稳定引擎策略与结构保真展示。" /></a>
+  <a href="https://github.com/2258009564/cph_for_nvim"><img src="./assets/neovim.svg" width="49%" alt="CPH for Neovim：面向 Neovim 的竞赛编程辅助插件。" /></a>
+</p>
 
-**存储与分布式系统** &nbsp; 围绕 Raft、日志与故障恢复学习系统的状态、边界和取舍。
+<sub>项目入口：[Raft 学习文档](https://github.com/2258009564/raft-study) · [算法练习](https://github.com/2258009564/MYWORK) · [SelectEcho](https://github.com/2258009564/SelectEcho) · [Neovim 插件](https://github.com/2258009564/cph_for_nvim)</sub>
 
-**开发工具与知识记录** &nbsp; 从实际使用中的小问题出发，做浏览器扩展、编辑器工具和数字花园。
+<br />
+<br />
 
-## 02 / 项目与实践
+<img src="./assets/focus.svg" width="100%" alt="Engineering mindset · 持续投入的方向" />
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/2258009564/raft-study">Raft Study ↗</a></h3>
-<p>基于 MIT 6.5840 的 Raft 学习记录，以中文架构说明、阶段里程碑和测试记录串联共识协议的理解过程。</p>
-<p><code>Distributed Systems</code> <code>Raft</code></p>
-<sub>公开仓库展示笔记与验证记录。</sub>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/2258009564/MYWORK">Algorithm Workspace ↗</a></h3>
-<p>C++ 算法竞赛与日常编程练习。持续积累题目实现，在建模、复杂度与边界之间打磨解题能力。</p>
-<p><code>C++</code> <code>Algorithms</code></p>
-<sub>从一道题，走向一类问题。</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/2258009564/SelectEcho">SelectEcho ↗</a></h3>
-<p>左键划词即译的浏览器工具，关注稳定的翻译引擎策略与结构保真的结果展示。</p>
-<p><code>JavaScript</code> <code>Browser Extension</code></p>
-<sub>让日常阅读少一点打断。</sub>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/2258009564/cph_for_nvim">CPH for Neovim ↗</a></h3>
-<p>面向 Neovim 的竞赛编程辅助插件，把算法练习与自己的编辑器工作流连接起来。</p>
-<p><code>Lua</code> <code>Neovim</code></p>
-<sub>为自己的工作流写工具。</sub>
-</td>
-</tr>
-</table>
+**算法是起点。** 在建模、证明和复杂度之间训练精确思考，把解题中的严谨带到工程里。
 
-## 03 / 技术与记录
+**系统是方向。** 关注数据如何保存、状态如何复制，以及系统在故障发生后如何恢复。围绕 Raft、日志与存储机制持续学习。
 
-**编程** &nbsp; C++ · Go · Python · JavaScript · Lua<br />
-**工具** &nbsp; Git · Neovim · VS Code · Windows / WSL<br />
-**记录** &nbsp; [数字花园](https://alisa22580.com/) · [算法仓库](https://github.com/2258009564/MYWORK) · [Raft 笔记](https://github.com/2258009564/raft-study)
+**工具是实践。** 从阅读和编码中的真实需求出发，让浏览器扩展、编辑器插件与数字花园成为日常工作的一部分。
 
-## 04 / 开发足迹
+<p>
+  <code>C++</code> &nbsp; <code>Go</code> &nbsp; <code>Python</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Lua</code>
+  <br />
+  <sub>Git · Neovim · VS Code · Windows / WSL</sub>
+</p>
 
-持续动手，也持续记录。最近的编码统计与语言分布收在下面。
+<br />
+
+<img src="./assets/footprints.svg" width="100%" alt="Behind the commits · 日常开发记录" />
 
 <details>
-<summary><b>展开编码统计 / WakaTime</b></summary>
+<summary><b>编码时间、语言分布与开发足迹 ↗</b></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%2016%20mins-blue?style=flat)
@@ -180,14 +161,10 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 </details>
 
----
+<br />
+
+<img src="./assets/signature.svg" width="100%" alt="Stay curious. Go deeper. 保持好奇，向深处走。" />
 
 <p align="center">
-  <b>把问题想清楚，把系统做扎实。</b><br />
-  <sub>Think precisely. Build deliberately.</sub>
-</p>
-
-<p align="center">
-  <a href="https://github.com/2258009564">@2258009564</a> &nbsp; · &nbsp;
-  <a href="https://alisa22580.com/">alisa22580.com</a>
+  <sub><a href="https://github.com/2258009564">@2258009564</a> &nbsp; / &nbsp; <a href="https://alisa22580.com/">alisa22580.com</a></sub>
 </p>
