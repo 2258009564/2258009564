@@ -84,10 +84,10 @@ Raft 的中文架构笔记与阶段验收记录；公开仓库为学习文档。
 ### 🛠 Tech stack
 
 **Languages**<br />
-<img src="./assets/stack-cpp.svg" alt="cpp" height="32" /> <img src="./assets/stack-go.svg" alt="go" height="32" /> <img src="./assets/stack-python.svg" alt="python" height="32" /> <img src="./assets/stack-javascript.svg" alt="javascript" height="32" /> <img src="./assets/stack-lua.svg" alt="lua" height="32" /> 
+<img src="./assets/stack-cpp.svg" alt="cpp" height="32" /> <img src="./assets/stack-go.svg" alt="go" height="32" /> <img src="./assets/stack-python.svg" alt="python" height="32" /> <img src="./assets/stack-javascript.svg" alt="javascript" height="32" /> <img src="./assets/stack-lua.svg" alt="lua" height="32" />
 
 **Workspace**<br />
-<img src="./assets/stack-git.svg" alt="git" height="32" /> <img src="./assets/stack-neovim.svg" alt="neovim" height="32" /> <img src="./assets/stack-vscode.svg" alt="vscode" height="32" /> 
+<img src="./assets/stack-git.svg" alt="git" height="32" /> <img src="./assets/stack-neovim.svg" alt="neovim" height="32" /> <img src="./assets/stack-vscode.svg" alt="vscode" height="32" />
 
 Windows / WSL · 算法练习 · 系统学习 · 工具开发
 
