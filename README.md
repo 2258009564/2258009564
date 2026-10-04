@@ -1,53 +1,100 @@
-<p align="center">
-  <img src="./assets/header.svg" width="100%" alt="alisa22580 · Think in algorithms. Build in systems. 从算法的严谨，走向系统的深度。" />
-</p>
+<picture><source media="(max-width: 600px)" srcset="./assets/banner-mobile.svg" /><img src="./assets/banner.svg" width="100%" alt="alisa22580 · Competitive Programming / Systems / Tools · 从算法出发，向系统深处。" /></picture>
+
+<p align="center"><picture><source media="(max-width: 600px)" srcset="./assets/status-mobile.svg" /><img src="./assets/status.svg" width="100%" alt="Competitive programmer · Exploring storage and distributed systems · Building tools" /></picture></p>
 
 <p align="center">
-  <a href="https://alisa22580.com/"><b>数字花园 ↗</b></a> &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/alisa22580"><b>Codeforces ↗</b></a> &nbsp;&nbsp; · &nbsp;&nbsp;
-  <a href="https://github.com/2258009564?tab=repositories"><b>全部仓库 ↗</b></a>
+  <a href="https://alisa22580.com/"><b>数字花园</b></a> &nbsp; · &nbsp;
+  <a href="https://codeforces.com/profile/alisa22580"><b>Codeforces</b></a> &nbsp; · &nbsp;
+  <a href="https://github.com/2258009564?tab=repositories"><b>项目仓库</b></a>
 </p>
 
-### 我是 alisa22580，一名软件工程学生。
+### 👋 About
 
-从 C++ 与算法竞赛出发，向存储系统与分布式基础设施深入。喜欢把问题抽象清楚，再用代码和验证把它落到实处；这里既有长期积累的算法练习，也有系统学习的记录和为自己写的小工具。
+我是 **alisa22580**，软件工程学生、ACMer。以 C++ 和算法竞赛为起点，向存储与分布式基础设施深入；也用 Go、JavaScript 和 Lua 做学习实验、浏览器工具与编辑器插件。
 
-<br />
+```yaml
+base:  C++ / ACM
+focus: Systems & Infra
+build: Notes & tools
+```
 
-<img src="./assets/work.svg" width="100%" alt="Selected work · 项目、学习与工具" />
+### 🏆 ICPC / CCPC
 
-<p>
-  <a href="https://github.com/2258009564/raft-study"><img src="./assets/raft.svg" width="49%" alt="Raft Study：基于 MIT 6.5840 的架构笔记、阶段里程碑与测试记录。公开仓库为学习文档。" /></a>
-  <a href="https://github.com/2258009564/MYWORK"><img src="./assets/algorithms.svg" width="49%" alt="Algorithm Workspace：C++ 算法竞赛与编程练习，关注建模、复杂度与边界。" /></a>
-  <a href="https://github.com/2258009564/SelectEcho"><img src="./assets/selectecho.svg" width="49%" alt="SelectEcho：划词即译，稳定引擎策略与结构保真展示。" /></a>
-  <a href="https://github.com/2258009564/cph_for_nvim"><img src="./assets/neovim.svg" width="49%" alt="CPH for Neovim：面向 Neovim 的竞赛编程辅助插件。" /></a>
-</p>
-
-<sub>项目入口：[Raft 学习文档](https://github.com/2258009564/raft-study) · [算法练习](https://github.com/2258009564/MYWORK) · [SelectEcho](https://github.com/2258009564/SelectEcho) · [Neovim 插件](https://github.com/2258009564/cph_for_nvim)</sub>
-
-<br />
-<br />
-
-<img src="./assets/focus.svg" width="100%" alt="Engineering mindset · 持续投入的方向" />
-
-**算法是起点。** 在建模、证明和复杂度之间训练精确思考，把解题中的严谨带到工程里。
-
-**系统是方向。** 关注数据如何保存、状态如何复制，以及系统在故障发生后如何恢复。围绕 Raft、日志与存储机制持续学习。
-
-**工具是实践。** 从阅读和编码中的真实需求出发，让浏览器扩展、编辑器插件与数字花园成为日常工作的一部分。
-
-<p>
-  <code>C++</code> &nbsp; <code>Go</code> &nbsp; <code>Python</code> &nbsp; <code>JavaScript</code> &nbsp; <code>Lua</code>
-  <br />
-  <sub>Git · Neovim · VS Code · Windows / WSL</sub>
-</p>
-
-<br />
-
-<img src="./assets/footprints.svg" width="100%" alt="Behind the commits · 日常开发记录" />
+| 年份 | 赛事 | 成绩 |
+| :---: | --- | --- |
+| 2026 | ICPC 重庆省赛 | 🥇 **金牌 · Rank 12** |
+| 2026 | ICPC 广西邀请赛 | 🥈 **银牌** |
+| 2026 | ICPC 沈阳邀请赛 | 🥈 **银牌** |
+| 2026 | CCPC 东北赛 | 🥉 铜牌 |
+| 2025 | CCPC 黑龙江省赛 | 🥈 **银牌** |
+| 2025 | CCPC 东北赛 | 🥉 铜牌 |
 
 <details>
-<summary><b>编码时间、语言分布与开发足迹 ↗</b></summary>
+<summary><b>完整奖项：蓝桥杯、天梯赛、其他竞赛与奖学金</b></summary>
+
+#### 蓝桥杯
+
+| 年份 | 赛事 | 成绩 |
+| :---: | --- | --- |
+| 2026 | 第十七届蓝桥杯全国总决赛 | **一等奖** |
+| 2026 | 第十七届蓝桥杯黑龙江省赛 · C++ B 组 | **一等奖 · 黑龙江省第 2** |
+
+#### 团体程序设计天梯赛 · CCCC / GPLT
+
+| 年份 | 赛事 | 成绩 |
+| :---: | --- | --- |
+| 2026 | 全国总决赛 | **团体二等奖、个人二等奖** |
+| 2026 | 黑龙江省赛 | **团体一等奖** |
+
+#### 其他竞赛
+
+| 年份 | 赛事 | 成绩 |
+| :---: | --- | --- |
+| 2025 | 百度之星 · AStar | **国赛铜牌、省赛银牌** |
+| 2025 | 马蹄杯 | **国赛铜牌、省赛银牌** |
+
+#### 奖学金
+
+| 学期 | 奖项 |
+| --- | --- |
+| 大一上学期 | 二等奖学金 |
+| 大一下学期 | 一等奖学金 |
+| 大二上学期 | 二等奖学金 |
+
+</details>
+
+### 🚀 Selected projects
+
+<a href="https://github.com/2258009564/raft-study"><picture><source media="(max-width: 600px)" srcset="./assets/raft-mobile.svg" /><img src="./assets/raft.svg" width="100%" alt="Raft Study · Go / MIT 6.5840" /></picture></a>
+
+Raft 的中文架构笔记与阶段验收记录；公开仓库为学习文档。
+
+<a href="https://github.com/2258009564/SelectEcho"><picture><source media="(max-width: 600px)" srcset="./assets/selectecho-mobile.svg" /><img src="./assets/selectecho.svg" width="100%" alt="SelectEcho · JavaScript / Browser Extension" /></picture></a>
+
+面向 Chrome / Edge 的划词翻译扩展，关注引擎策略与结构保真展示。
+
+<a href="https://github.com/2258009564/cph_for_nvim"><picture><source media="(max-width: 600px)" srcset="./assets/neovim-mobile.svg" /><img src="./assets/neovim.svg" width="100%" alt="CPH for Neovim · Lua / Competitive Programming" /></picture></a>
+
+接收 Competitive Companion 题目，在 Neovim 内管理用例、运行程序与比较输出。
+
+<a href="https://github.com/2258009564/MYWORK"><picture><source media="(max-width: 600px)" srcset="./assets/algorithms-mobile.svg" /><img src="./assets/algorithms.svg" width="100%" alt="MYWORK · C++ / Algorithms" /></picture></a>
+
+算法竞赛练习、C++ 模板与编辑器配置的积累。
+
+### 🛠 Tech stack
+
+**Languages**<br />
+<img src="./assets/stack-cpp.svg" alt="cpp" height="32" /> <img src="./assets/stack-go.svg" alt="go" height="32" /> <img src="./assets/stack-python.svg" alt="python" height="32" /> <img src="./assets/stack-javascript.svg" alt="javascript" height="32" /> <img src="./assets/stack-lua.svg" alt="lua" height="32" /> 
+
+**Workspace**<br />
+<img src="./assets/stack-git.svg" alt="git" height="32" /> <img src="./assets/stack-neovim.svg" alt="neovim" height="32" /> <img src="./assets/stack-vscode.svg" alt="vscode" height="32" /> 
+
+Windows / WSL · 算法练习 · 系统学习 · 工具开发
+
+### 📊 Coding activity
+
+<details>
+<summary><b>展开 WakaTime 编码统计</b></summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%2040%20mins-blue?style=flat)
@@ -161,10 +208,9 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 </details>
 
-<br />
-
-<img src="./assets/signature.svg" width="100%" alt="Stay curious. Go deeper. 保持好奇，向深处走。" />
+---
 
 <p align="center">
-  <sub><a href="https://github.com/2258009564">@2258009564</a> &nbsp; / &nbsp; <a href="https://alisa22580.com/">alisa22580.com</a></sub>
+  <b>把问题想清楚，把系统做扎实。</b><br />
+  <sub>Algorithms sharpen the mind. Systems deepen the craft.</sub>
 </p>
