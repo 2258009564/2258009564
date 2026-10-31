@@ -86,78 +86,6 @@ Windows / WSL · 算法练习 · 系统学习 · 工具开发
  > 
 > 🔑 2 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-🌆 Daytime                149 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-🌃 Evening                425 commits         ███████████████░░░░░░░░░░   60.63 % 
-🌙 Night                  100 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   239 commits         █████████░░░░░░░░░░░░░░░░   34.09 % 
-Tuesday                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Wednesday                85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Thursday                 37 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-Friday                   149 commits         █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-Saturday                 75 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Sunday                   76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   7 hrs 1 min         ██████████░░░░░░░░░░░░░░░   41.72 % 
-Other                    5 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   30.91 % 
-Markdown                 2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-C++                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-PowerShell               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-
-🔥 Editors: 
-Codex Vscode             14 hrs 52 mins      ██████████████████████░░░   88.43 % 
-Codex CLI                58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-VS Code                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-
-🐱‍💻 Projects: 
-new-chat-2               4 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   28.74 % 
-wxz                      4 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.88 % 
-d-desktop-raft-2026-10-063 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
-new-chat                 50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-hysteria2-2              45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-
-💻 Operating System: 
-Windows                  16 hrs 49 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 16 hrs 8 mins (95.88%)
-
-✍️ 5,849 lines written by AI, 422 lines written by hand (93.27% AI-written)
-
-🔤 10,229,678 Input Tokens, 1,262,816 Output Tokens
-
-💵 $97.61 Estimated AI Cost This Week
-
-🧠 35 AI Sessions, 210 AI Prompts
-
-GPT                      5,619 lines         ████████████████████████░   96.05 % 
-Codex-Vscode             231 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.27% of written lines came from AI
-📚 Verbose Prompter — average 2,659 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 7.22% of changed lines were hand-edited
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -175,7 +103,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 22:31:57 UTC
+ Last Updated on 31/10/2026 21:46:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
