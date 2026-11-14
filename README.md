@@ -70,30 +70,98 @@ Windows / WSL · 算法练习 · 系统学习 · 工具开发
 <summary><b>展开 WakaTime 编码统计</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C111%20hrs%209%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-319%20hrs%2016%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
-> 📦 412.3 kB Used in GitHub's Storage 
+> 📦 461.9 kB Used in GitHub's Storage 
  > 
-> 🏆 175 Contributions in the Year 2026
+> 🏆 232 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 18 Public Repositories 
+> 📜 19 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                42 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+🌆 Daytime                211 commits         ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+🌃 Evening                501 commits         ███████████████░░░░░░░░░░   58.26 % 
+🌙 Night                  106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   243 commits         ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+Tuesday                  75 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Thursday                 40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Friday                   233 commits         ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+Saturday                 93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Sunday                   82 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    7 hrs 46 mins       ████████████████░░░░░░░░░   62.30 % 
+Markdown                 1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+C++                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+
+🔥 Editors: 
+Codex Vscode             10 hrs 9 mins       ████████████████████░░░░░   81.27 % 
+VS Code                  1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Obsidian                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+
+🐱‍💻 Projects: 
+牛客Raft面经研究               4 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.56 % 
+d-downloads-documents-1-p2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
+MYWORK                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+源码                       45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+warn-it-looks-like-you-ha39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+
+💻 Operating System: 
+Windows                  12 hrs 29 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 10 hrs 54 mins (87.26%)
+
+✍️ 2,004 lines written by AI, 2,283 lines written by hand (46.75% AI-written)
+
+🔤 2,141,644 Input Tokens, 386,760 Output Tokens
+
+💵 $20.21 Estimated AI Cost This Week
+
+🧠 27 AI Sessions, 173 AI Prompts
+
+GPT                      2,023 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 46.75% of written lines came from AI
+📚 Verbose Prompter — average 3,361 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 53.66% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-PowerShell               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TeX                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Go                       1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Lua                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Kotlin                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+PowerShell               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -103,7 +171,7 @@ Lua                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 21:46:27 UTC
+ Last Updated on 14/11/2026 11:36:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
