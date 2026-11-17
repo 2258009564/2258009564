@@ -70,9 +70,9 @@ Windows / WSL · 算法练习 · 系统学习 · 工具开发
 <summary><b>展开 WakaTime 编码统计</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C124%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-346%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-348%20hrs%2041%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -113,48 +113,48 @@ Sunday                   85 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 44 mins       ███████████████░░░░░░░░░░   59.76 % 
-Markdown                 1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-C#                       1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Other                    11 hrs 41 mins      ████████████████░░░░░░░░░   64.08 % 
+Markdown                 1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+C#                       1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Python                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
 
 🔥 Editors: 
-Codex Vscode             15 hrs 28 mins      ████████████████████████░   95.03 % 
-VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Codex Vscode             17 hrs 26 mins      ████████████████████████░   95.62 % 
+VS Code                  42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Codex CLI                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-牛客Raft面经研究               6 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.20 % 
-new-chat-2               3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
-d-downloads-documents-1-p2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-源码                       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-c-25g                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+牛客Raft面经研究               6 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   34.11 % 
+new-chat-2               3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+new-chat                 2 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+d-downloads-documents-1-p2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+源码                       45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 💻 Operating System: 
-Windows                  16 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 35 mins (95.68%)
+⏱ AI Coding Time: 17 hrs 32 mins (96.14%)
 
 ✍️ 2,631 lines written by AI, 193 lines written by hand (93.17% AI-written)
 
-🔤 3,746,141 Input Tokens, 632,455 Output Tokens
+🔤 4,121,157 Input Tokens, 695,999 Output Tokens
 
-💵 $34.32 Estimated AI Cost This Week
+💵 $39.80 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 219 AI Prompts
+🧠 34 AI Sessions, 229 AI Prompts
 
 GPT                      2,680 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 93.17% of written lines came from AI
-📚 Verbose Prompter — average 2,291 characters per prompt
+📚 Verbose Prompter — average 2,193 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 7.01% of changed lines were hand-edited
 ```
@@ -176,7 +176,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 15/11/2026 23:02:07 UTC
+ Last Updated on 17/11/2026 01:55:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
