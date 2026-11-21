@@ -72,7 +72,7 @@ Windows / WSL · 算法练习 · 系统学习 · 工具开发
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C125%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-352%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-355%20hrs%2014%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -113,49 +113,49 @@ Sunday                   85 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 43 mins      █████████████████████░░░░   83.40 % 
-C#                       1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Markdown                 53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-XML                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-C++                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Other                    10 hrs 15 mins      ██████████████████░░░░░░░   70.02 % 
+Markdown                 2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+C#                       1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+XML                      20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+C++                      16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
 
 🔥 Editors: 
-Codex Vscode             17 hrs 31 mins      █████████████████████████   99.26 % 
-Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Codex Exec               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Codex Vscode             14 hrs 32 mins      █████████████████████████   99.27 % 
+Codex Exec               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🐱‍💻 Projects: 
-牛客Raft面经研究               8 hrs 59 mins       █████████████░░░░░░░░░░░░   50.94 % 
-new-chat-2               4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-new-chat                 2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-c-25g                    42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-x20                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+牛客Raft面经研究               5 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.18 % 
+new-chat-2               4 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   27.63 % 
+new-chat                 2 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+marketplace-file-c-users-31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+c-25g                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 
 💻 Operating System: 
-Windows                  17 hrs 39 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 39 mins (100.0%)
+⏱ AI Coding Time: 14 hrs 39 mins (100.0%)
 
-✍️ 627 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,258 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 4,657,064 Input Tokens, 444,745 Output Tokens
+🔤 4,842,160 Input Tokens, 499,825 Output Tokens
 
-💵 $48.22 Estimated AI Cost This Week
+💵 $65.74 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 312 AI Prompts
+🧠 35 AI Sessions, 238 AI Prompts
 
-GPT                      657 lines           █████████████████████████   100.00 % 
+GPT                      2,288 lines         █████████████████████████   100.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,547 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📚 Verbose Prompter — average 1,518 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -176,7 +176,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2026 00:44:42 UTC
+ Last Updated on 21/11/2026 00:04:21 UTC
 <!--END_SECTION:waka-->
 
 </details>
