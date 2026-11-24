@@ -76,7 +76,7 @@ Windows / WSL · 算法练习 · 系统学习 · 工具开发
 
 **🐱 My GitHub Data** 
 
-> 📦 462.7 kB Used in GitHub's Storage 
+> 📦 462.8 kB Used in GitHub's Storage 
  > 
 > 🏆 239 Contributions in the Year 2026
  > 
@@ -113,45 +113,45 @@ Sunday                   85 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 40 mins      ██████████████████████░░░   89.65 % 
-Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    10 hrs 29 mins      ██████████████████████░░░   87.76 % 
+Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Codex Vscode             14 hrs 2 mins       █████████████████████████   99.26 % 
-Codex Exec               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
-Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Codex Vscode             11 hrs 51 mins      █████████████████████████   99.15 % 
+Codex Exec               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Codex CLI                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🐱‍💻 Projects: 
-牛客Raft面经研究               5 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   39.36 % 
-分布式存储学习与求职·精选            3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-new-chat                 2 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-marketplace-file-c-users-59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-new-chat-2               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+牛客Raft面经研究               5 hrs 33 mins       ████████████░░░░░░░░░░░░░   46.53 % 
+分布式存储学习与求职·精选            3 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   29.08 % 
+marketplace-file-c-users-59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+new-chat-2               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+new-chat                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 
 💻 Operating System: 
-Windows                  14 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 hrs 8 mins (100.0%)
+⏱ AI Coding Time: 11 hrs 57 mins (100.0%)
 
 ✍️ 1,631 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 5,044,197 Input Tokens, 394,411 Output Tokens
+🔤 4,617,247 Input Tokens, 327,365 Output Tokens
 
-💵 $97.67 Estimated AI Cost This Week
+💵 $92.00 Estimated AI Cost This Week
 
-🧠 32 AI Sessions, 277 AI Prompts
+🧠 29 AI Sessions, 265 AI Prompts
 
 GPT                      1,631 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,527 characters per prompt
+📄 Detailed Prompter — average 1,499 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -173,7 +173,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 23:42:13 UTC
+ Last Updated on 24/11/2026 04:00:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
