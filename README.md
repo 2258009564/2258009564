@@ -72,7 +72,7 @@ Windows / WSL · 算法练习 · 系统学习 · 工具开发
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2021%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-361%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-361%20hrs%2052%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -113,45 +113,47 @@ Sunday                   85 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 26 mins       ██████████████████████░░░   86.57 % 
-Markdown                 1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-PowerShell               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    8 hrs 48 mins       ████████████████░░░░░░░░░   63.79 % 
+Python                   2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+Markdown                 1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+PowerShell               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+C++                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 44 mins      █████████████████████████   98.51 % 
-Codex Exec               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-Codex CLI                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Codex Vscode             13 hrs 27 mins      ████████████████████████░   97.45 % 
+Codex CLI                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Codex Exec               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🐱‍💻 Projects: 
-牛客Raft面经研究               4 hrs 36 mins       ███████████░░░░░░░░░░░░░░   42.29 % 
-分布式存储学习与求职·精选            3 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.90 % 
-marketplace-file-c-users-59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-x20                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-https-micu-ai-lib-netlify19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+牛客Raft面经研究               3 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+分布式存储学习与求职·精选            3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+new-chat                 3 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+marketplace-file-c-users-59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+d                        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
 
 💻 Operating System: 
-Windows                  10 hrs 54 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 54 mins (100.0%)
+⏱ AI Coding Time: 13 hrs 48 mins (100.0%)
 
-✍️ 1,631 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,089 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 3,989,016 Input Tokens, 279,211 Output Tokens
+🔤 4,938,143 Input Tokens, 473,649 Output Tokens
 
-💵 $90.49 Estimated AI Cost This Week
+💵 $212.93 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 246 AI Prompts
+🧠 28 AI Sessions, 271 AI Prompts
 
-GPT                      1,631 lines         █████████████████████████   100.00 % 
+GPT                      5,990 lines         █████████████████████████   98.02 % 
+Codex-Vscode             121 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,584 characters per prompt
+📚 Verbose Prompter — average 1,800 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -173,7 +175,7 @@ PowerShell               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/2258009564/2258009564/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 02:40:11 UTC
+ Last Updated on 26/11/2026 01:53:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
